@@ -4,7 +4,7 @@ This blog project was carried out using reactjs for frontend programming and dja
 This project explores the use of react hooks (useContext) to store and manage states and how to get API from python
 backend programming using the djangoRest framework.
 
-
+ 
 # Table of Content
 
   - Title and description
